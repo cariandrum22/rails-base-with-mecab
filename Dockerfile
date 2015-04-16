@@ -1,4 +1,4 @@
-FROM cariandrum22/rails-base
+FROM cariandrum22/rails-base:2.2.0
 
 MAINTAINER cariandrum22@gmail.com
 
